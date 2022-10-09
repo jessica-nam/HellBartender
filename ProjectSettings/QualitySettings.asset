@@ -224,6 +224,14 @@ QualitySettings:
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 2
+<<<<<<< HEAD
+    Lumin: 5
+    GameCoreScarlett: 5
+    GameCoreXboxOne: 5
+    Nintendo Switch: 5
+    PS4: 5
+    PS5: 5
+=======
     EmbeddedLinux: 5
     GameCoreScarlett: 5
     GameCoreXboxOne: 5
@@ -234,6 +242,7 @@ QualitySettings:
     PS5: 5
     QNX: 5
     Server: 5
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
     Stadia: 5
     Standalone: 5
     WebGL: 3

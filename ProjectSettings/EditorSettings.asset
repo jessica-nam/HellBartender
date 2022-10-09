@@ -3,6 +3,16 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
+  serializedVersion: 11
+  m_SerializationMode: 2
+  m_LineEndingsForNewScripts: 0
+  m_DefaultBehaviorMode: 1
+  m_PrefabRegularEnvironment: {fileID: 0}
+  m_PrefabUIEnvironment: {fileID: 0}
+  m_SpritePackerMode: 4
+  m_SpritePackerPaddingPower: 1
+=======
   serializedVersion: 12
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 2
@@ -13,10 +23,22 @@ EditorSettings:
   m_SpritePackerCacheSize: 10
   m_SpritePackerPaddingPower: 1
   m_Bc7TextureCompressor: 0
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
   m_EtcTextureCompressorBehavior: 1
   m_EtcTextureFastCompressor: 1
   m_EtcTextureNormalCompressor: 2
   m_EtcTextureBestCompressor: 4
+<<<<<<< HEAD
+  m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;asmref;rsp
+  m_ProjectGenerationRootNamespace: 
+  m_EnableTextureStreamingInEditMode: 1
+  m_EnableTextureStreamingInPlayMode: 1
+  m_AsyncShaderCompilation: 1
+  m_CachingShaderPreprocessor: 1
+  m_PrefabModeAllowAutoSave: 1
+  m_EnterPlayModeOptionsEnabled: 0
+  m_EnterPlayModeOptions: 3
+=======
   m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;asmref;rsp;java;cpp;c;mm;m;h
   m_ProjectGenerationRootNamespace: 
   m_EnableTextureStreamingInEditMode: 1
@@ -26,14 +48,20 @@ EditorSettings:
   m_PrefabModeAllowAutoSave: 1
   m_EnterPlayModeOptionsEnabled: 0
   m_EnterPlayModeOptions: 7
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
   m_GameObjectNamingDigits: 1
   m_GameObjectNamingScheme: 0
   m_AssetNamingUsesSpace: 1
   m_UseLegacyProbeSampleCount: 0
   m_SerializeInlineMappingsOnOneLine: 1
+<<<<<<< HEAD
+  m_DisableCookiesInLightmapper: 1
+  m_AssetPipelineMode: 1
+=======
   m_DisableCookiesInLightmapper: 0
   m_AssetPipelineMode: 1
   m_RefreshImportMode: 0
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
   m_CacheServerMode: 0
   m_CacheServerEndpoint: 
   m_CacheServerNamespacePrefix: default
@@ -41,4 +69,7 @@ EditorSettings:
   m_CacheServerEnableUpload: 1
   m_CacheServerEnableAuth: 0
   m_CacheServerEnableTls: 0
+<<<<<<< HEAD
+=======
   m_CacheServerValidationMode: 2
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
