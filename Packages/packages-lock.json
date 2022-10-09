@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.animation": {
       "version": "8.0.3",
       "depth": 1,
@@ -87,6 +88,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,
@@ -103,6 +106,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.2d": {
       "version": "1.0.0",
       "depth": 0,
@@ -117,6 +121,8 @@
         "com.unity.2d.tilemap.extras": "3.0.2"
       }
     },
+=======
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
     "com.unity.ide.rider": {
       "version": "3.0.15",
       "depth": 0,
@@ -142,6 +148,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 2,
@@ -149,6 +156,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
       "depth": 2,

@@ -4,8 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Bar.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+=======
+  m_Scenes: []
+>>>>>>> c3376d59d4acb7a182fd808033fe9bba68904a58
   m_configObjects: {}
